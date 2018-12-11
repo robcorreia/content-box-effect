@@ -102,3 +102,10 @@ body {
 .container .box:nth-child(3) {
     background: #9b59b6; 
 }
+
+footer, footer a {
+    text-align: center;
+    text-decoration: none;
+}
+
+
